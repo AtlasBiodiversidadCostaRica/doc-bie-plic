@@ -55,4 +55,4 @@ Create documentation for users throughout the process\
 **Deliverable**: documentation\
 **Repositories**:
 - https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-- https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic
+- https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic/blob/master/data-processing.md
