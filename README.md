@@ -21,7 +21,7 @@ Prepare the data in the Plinian Core standard\
 **Deliverable**: Datasets\
 **Repositories**:
 - https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-- https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic/data
+- https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic/tree/master/data
                      
 ### Deliverable 2
 Presentation of the Plinan Core extension at the TDWG event\
