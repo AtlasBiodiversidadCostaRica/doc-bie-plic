@@ -46,7 +46,7 @@ Adapt functionality in the visualization (ala-bie)\
 **Deliverable**: development code\
 **Repositories**:
 - https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-- https://github.com/AtlasBiodiversidadCostaRica/ala-bie
+- https://github.com/AtlasBiodiversidadCostaRica/ala-bie-hub
 
 
 ### Deliverable 5
